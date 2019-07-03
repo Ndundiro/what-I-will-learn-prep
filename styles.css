@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: green;
+    font-style:italic;
+    text-align: center;
+}
+p{
+    font-family:playfair Display;
+}
+ul{
+    line-height: 40px;
+}
+body{
+    line-height: 20px;
+    background-color: aqua;
+    
+}
+strong{
+    font-style:italic;
+}
